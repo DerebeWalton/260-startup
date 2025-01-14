@@ -10,6 +10,13 @@
 
 ## Starting Notes
 
+### Instructions for notes:
+Your notes file is meant as a place to remember all the things you have learned from this course. You should modify this file frequently.
+
+1. Read the GitHub documentation about the basics of writing markdown.
+2. Access the file in your repository called notes.md. You can use the contents of this file on any exam. As you modify your notes.md file throughout the class. Make sure that you keep it organized and clean. You can add multiple .md files and reference them from your notes.md file in order make it easier to organize your content.
+3. Make your first notes in your notes.md file about what you learned from this assignment. Commit and push your notes to GitHub.
+
 ### Initial Thoughts
 
 As I already have a pretty good understanding of Git and GitHub, I am excited to start learning other tools. Having a notes.md file will be really helpful, and I should probably include them in many other projects
