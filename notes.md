@@ -25,6 +25,11 @@ As I already have a pretty good understanding of Git and GitHub, I am excited to
 
 It's helpful to have a design document from the beginning to help guide. It might be helpful to change it as needed in the future.
 
+Use the CatAPI.
+Maybe keep track of user's time in game.
+Colorblind option
+Custom cat and/or Background maker
+
 ## AWS Notes
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -32,3 +37,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## HTML Notes
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+## Class notes:
+"Believe more in yourself" - Dr. Jensen
+
+### VI
+- Starts in command mode
+- I to insert mode (edit)
+- :wq to write and quit
+- ESC to go back to command mode
+- :q! quits without saving changes
+
+### Tools
+Warp is 
