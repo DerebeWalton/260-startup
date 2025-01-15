@@ -26,7 +26,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Do you like cats? Do you like peaceful moments with cats? Then play Walking Cat Simulator! This is a simple web browser game that allows you to walk as a cat across different environments. You can change what type and color of cat you have and can even save your preferred cat and environment. Come join and enjoy your peaceful cat walk.
+Do you like cats? Do you like peaceful moments with cats? Then play Walking Cat Simulator! This is a simple web browser game that allows you to walk as a cat across different environments. You can change what type and color of cat you have and can even save your preferred cat and environment. Come join and enjoy your peaceful cat walk!
 
 ### Design
 
@@ -50,7 +50,7 @@ I am going to use the required technologies in the following ways.
 - **Service** - Backend service with endpoints for:
     - retrieving saved user background and cat info
     - leaderboard
-    - displayed a random cat picture using https://api.thecatapi.com/v1/images/search service.
+    - displays a random cat picture using https://api.thecatapi.com/v1/images/search service.
 - **DB/Login** - Store users, background and cat saves, and time played in database. Register and login users. Credential securly stored in database. Cannot save or be on leaderboard unless authenticated.
 - **WebSocket** - As each user saves their cat and background information, their choice is broadcast to all other users.
 
