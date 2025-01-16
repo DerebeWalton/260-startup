@@ -32,7 +32,9 @@ Custom cat and/or Background maker
 
 ## AWS Notes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I initially used an old security group that I was not as sure with the settings, which I think led to being unable to access the server using ssh or http. I deleted the instance and made a new one with a new security group, and then it worked just fine.
+
+I previously took this class and dropped it, without properly releasing my elastic IP, which led to a $3 charge for several months after. It is important to go through and fully ensure the instance, domain, and elastic IP are properly released, shut down, and deleted when we are done.
 
 ## HTML Notes
 
