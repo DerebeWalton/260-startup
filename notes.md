@@ -42,9 +42,13 @@ After having some issues getting my domain, I reached out to AWS support (which 
 
 Additionally, once I finally got the domain onto my EC2 instance, I also enabled my VSCode to allow me to have an ssh connection and explore files without having to use Vi. This makes navigation and modification of files way easier. It involves a config file, but once you have connected once, VSCode saves everything for you for easy access, similar to how GitLens works in VSCode.
 
+It feels amazing to be able to type in my name to get to my own website. So cool! Check out <derekawalton.com>
+
 ## Caddy Notes
 
 Caddy seems to be a powerful and convenient tool. I installed the Go tool on VS Code to make the language helpfully colorful. Also, the easy change to putting my domain name in for my subdomains was awesome.
+
+I had glanced over the directions for editing the Caddy file and failed to change the actual root address, making my subdomains secure but not <derekawalton.com>. So I fixed that.
 
 ## HTML Notes
 
