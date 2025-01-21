@@ -34,7 +34,9 @@ Custom cat and/or Background maker
 
 I initially used an old security group that I was not as sure with the settings, which I think led to being unable to access the server using ssh or http. I deleted the instance and made a new one with a new security group, and then it worked just fine.
 
-I previously took this class and dropped it, without properly releasing my elastic IP, which led to a $3 charge for several months after. It is important to go through and fully ensure the instance, domain, and elastic IP are properly released, shut down, and deleted when we are done.
+I previously took this class and dropped it, without properly releasing my elastic IP, which led to a $3 charge for several months after. It is important to go through and fully ensure the instance, domain, and elastic IP are properly released, shut down, and deleted when we are done.'
+
+After having some issues getting my domain, I reached out to AWS support (which was suggested by the email that said getting the domain failed) and, after several days, they lifted some kind of restriction and allowed me to lease derekawalton.com.
 
 ## HTML Notes
 
