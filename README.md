@@ -1,8 +1,8 @@
-# Your startup name here
+# Walking Cat Simulator
 
 [My Notes](notes.md)
 
-A brief description of the application here. This is an initial change, I deleted the lorem ipsum stuff. I am planning on making some kind of a walking cat simulator, that keeps track of how long your cat walks and in what environment.
+This is a simple web application that provides peace as a cat walks across different environments on your screen. You can customize your cat and the environment to your liking to ensure peak enjoyment.
 
 
 > [!NOTE]
