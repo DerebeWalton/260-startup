@@ -38,6 +38,10 @@ I previously took this class and dropped it, without properly releasing my elast
 
 After having some issues getting my domain, I reached out to AWS support (which was suggested by the email that said getting the domain failed) and, after several days, they lifted some kind of restriction and allowed me to lease derekawalton.com.
 
+## Caddy Notes
+
+Caddy seems to be a powerful and convenient tool. I installed the Go tool on VS Code to make the language helpfully colorful. Also, the easy change to putting my domain name in for my subdomains was awesome.
+
 ## HTML Notes
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
