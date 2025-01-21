@@ -50,6 +50,8 @@ Caddy seems to be a powerful and convenient tool. I installed the Go tool on VS 
 
 I had glanced over the directions for editing the Caddy file and failed to change the actual root address, making my subdomains secure but not <derekawalton.com>. So I fixed that.
 
+Again, I forgot to read through everything and failed to restart caddy once I fixed my root domain. Now it is working. See note below
+
 > [!NOTE]
 > Remember to fully read directions!!!
 
