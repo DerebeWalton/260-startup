@@ -22,7 +22,36 @@
     </header>
 
     <main>
-      <h1>Welcome to Cat Walking Simulator!</h1>
+      <div class="players">
+        Player:
+        <span class="player-name">I_Am_Player</span>
+      </div>
+      <ul class="notification">
+        <li class="player-name">Cat Enjoyer selected Siamese cat</li>
+        <li class="player-name">some_player selected Orange Tabby cat</li>
+        <li class="player-name">kitty_man selected Mountain environment</li>
+        <li class="player-name">Cat Enjoyer started a new game</li>
+      </ul>
+
+      <br />
+
+      <div>
+        <label for="count">Time Played</label>
+        <input type="text" id="count" value="--" readonly />
+      </div>
+
+      <br />
+
+      <div>
+        <button>Change Cat</button>
+        <button>Change Environment</button>
+      </div>
+      <div>
+        <button>Save</button>
+      </div>
+
+      <br />
+      
       <div id="picture" class = "picture-box"><img width="400px" src="Sunny_Grass.svg" alt="random" /></div>
       <div id="picture" class = "picture-box"><img width="100px" src="Orange_tabby_cropped.png" alt="random" /></div>
     </main>
