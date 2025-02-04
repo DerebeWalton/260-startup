@@ -59,6 +59,8 @@ Again, I forgot to read through everything and failed to restart caddy once I fi
 
 For the most part, HTML seems pretty simple, the only thing that can get confusing is all the different tags. Fortunately, the Simon example code is helpful and easy to understand.
 
+I am debating whether to have the save button just say "Save" or be longer like "Save Cat and Environment to profile". The sizing might get too big on mobile once I implement CSS, so I'm leaning towards just "Save". I might find a way to have a hover message for more info so it is an option without taking up space all the time.
+
 
 ## Class notes:
 "Believe more in yourself" - Dr. Jensen
