@@ -57,7 +57,7 @@ Again, I forgot to read through everything and failed to restart caddy once I fi
 
 ## HTML Notes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For the most part, HTML seems pretty simple, the only thing that can get confusing is all the different tags. Fortunately, the Simon example code is helpful and easy to understand.
 
 
 ## Class notes:
@@ -71,4 +71,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - :q! quits without saving changes
 
 ### Tools
-Warp is 
+Warp is a cool AI assisted terminal. I might install onto my linux computers. The old computers might be too slow, so I might just do it on the newer computer.
