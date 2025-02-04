@@ -64,15 +64,15 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - Four different pages. One for each view. `index.html` (Login), `play.html`, `scores.html`, and `about.html`.
+- [x] **Proper HTML element usage** - I used header, footer, main, nav, img, a, p, input, button, form, among others.
+- [x] **Links** - Links between views and one to the GitHub repository.
+- [x] **Text** - About page has text.
+- [x] **3rd party API placeholder** - About page has a place to display an image from thecatapi.com.
+- [x] **Images** - Image of the cat I grew up with and an image from thecatapi.com is displayed on the about page. Also have placholder images for the game on play page
+- [x] **Login placeholder** - Placeholder for auth is on the login page.
+- [x] **DB data placeholder** - High scores displayed on scores page.
+- [x] **WebSocket placeholder** - The play page has a text area that will show other user notifications.
 
 ## 🚀 CSS deliverable
 
