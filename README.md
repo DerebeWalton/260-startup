@@ -68,7 +68,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Proper HTML element usage** - I used header, footer, main, nav, img, a, p, input, button, form, among others.
 - [x] **Links** - Links between views and one to the GitHub repository.
 - [x] **Text** - About page has text.
-- [x] **3rd party API placeholder** - About page has a place to display an image from thecatapi.com.
+- [x] **3rd party API placeholder** - About page has a place to display an image from thecatapi.com. Currently it even includes one of the images from the cat api, a cat within a sink.
 - [x] **Images** - Image of the cat I grew up with and an image from thecatapi.com is displayed on the about page. Also have placholder images for the game on play page
 - [x] **Login placeholder** - Placeholder for auth is on the login page.
 - [x] **DB data placeholder** - High scores displayed on scores page.
