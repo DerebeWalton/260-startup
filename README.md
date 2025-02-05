@@ -71,7 +71,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **3rd party API placeholder** - About page has a place to display an image from thecatapi.com. Currently it even includes one of the images from the cat api, a cat within a sink.
 - [x] **Images** - Image of the cat I grew up with and an image from thecatapi.com is displayed on the about page. Also have placholder images for the game on play page
 - [x] **Login placeholder** - Placeholder for auth is on the login page.
-- [x] **DB data placeholder** - High scores displayed on scores page.
+- [x] **DB data placeholder** - High scores displayed on scores page. The play page has a button to save the cat and the background to one's profile
 - [x] **WebSocket placeholder** - The play page has a text area that will show other user notifications.
 
 ## 🚀 CSS deliverable
