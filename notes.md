@@ -42,13 +42,13 @@ After having some issues getting my domain, I reached out to AWS support (which 
 
 Additionally, once I finally got the domain onto my EC2 instance, I also enabled my VSCode to allow me to have an ssh connection and explore files without having to use Vi. This makes navigation and modification of files way easier. It involves a config file, but once you have connected once, VSCode saves everything for you for easy access, similar to how GitLens works in VSCode.
 
-It feels amazing to be able to type in my name to get to my own website. So cool! Check out <derekawalton.com>
+It feels amazing to be able to type in my name to get to my own website. So cool! Check out [derekawalton.com](derekawalton.com)
 
 ## Caddy Notes
 
 Caddy seems to be a powerful and convenient tool. I installed the Go tool on VS Code to make the language helpfully colorful. Also, the easy change to putting my domain name in for my subdomains was awesome.
 
-I had glanced over the directions for editing the Caddy file and failed to change the actual root address, making my subdomains secure but not <derekawalton.com>. So I fixed that.
+I had glanced over the directions for editing the Caddy file and failed to change the actual root address, making my subdomains secure but not [derekawalton.com](derekawalton.com). So I fixed that.
 
 Again, I forgot to read through everything and failed to restart caddy once I fixed my root domain. Now it is working. See note below
 
@@ -60,6 +60,8 @@ Again, I forgot to read through everything and failed to restart caddy once I fi
 For the most part, HTML seems pretty simple, the only thing that can get confusing is all the different tags. Fortunately, the Simon example code is helpful and easy to understand.
 
 I am debating whether to have the save button just say "Save" or be longer like "Save Cat and Environment to profile". The sizing might get too big on mobile once I implement CSS, so I'm leaning towards just "Save". I might find a way to have a hover message for more info so it is an option without taking up space all the time.
+
+## CSS notes:
 
 
 ## Class notes:
